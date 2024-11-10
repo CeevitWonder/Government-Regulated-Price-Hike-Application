@@ -71,6 +71,8 @@ people opinion about their next plan regarding price or any suggestion they can 
 upgrade their evaluation of this system. It provides a centralized platform for sharing
 information, coordinating efforts, and generating comprehensive reports on price trends,
 regulatory compliance, and consumer complaints.
+
+
 This solution has the potential to produce fair pricing while protecting consumer interest
 with the empowerment of social economic stability.
 The target group of users of our solution is lower-class, middle-class and students as
